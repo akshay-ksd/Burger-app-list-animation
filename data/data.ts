@@ -1,0 +1,1 @@
+// export const data = [{ image_url: require("../assets/images/1.png") },{ image_url: require("../assets/images/2.png") }, { image_url: require("../assets/images/3.png") }, { image_url: require("../assets/images/4.png") }, { image_url: require("../assets/images/5.png") }, { image_url: require("../assets/images/6.png") }, { image_url: require("../assets/images/7.jpg") }]
