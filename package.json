@@ -12,6 +12,7 @@
   "dependencies": {
     "@react-navigation/bottom-tabs": "^6.5.9",
     "@react-navigation/native": "^6.1.8",
+    "axios": "^1.6.2",
     "react": "18.2.0",
     "react-native": "0.72.6",
     "react-native-fs": "^2.20.0",

@@ -9,9 +9,7 @@ const HomeScreen = () => {
 
     return (
         <View style={styles.container}>
-            {isFocused && (
-                <DetailsPage />
-            )}
+           
         </View>
     )
 }
